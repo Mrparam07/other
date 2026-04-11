@@ -1,15 +1,11 @@
 # Self Review
 
-* Delivered end-to-end QA and automation support across multiple areas, with major focus on B2C flows, release quality, regression coverage, and production stability.
+* Assisted team members in UI and API automation by helping with scripting, debugging, and resolving automation-related issues.
 
-* Automated 350+ end-to-end scenarios and additionally identified missing BDD scenarios, helping improve overall coverage and achieve close to 90% automation for owned areas.
+* Actively used AI tools to improve coding efficiency and implemented better logic to reduce automation failures and ensure smoother execution.
 
-* Took ownership of Rules and Wallet configuration testing during release cycles, handled higher workloads, and identified multiple defects before production.
+* Worked closely with developers, product owners, and DevOps teams across QA, UAT, and Production environments to support smooth releases and faster issue resolution.
 
-* Validated RFM rules for business scenarios in close coordination with Product and Risk teams to verify rule configurations, helping prevent financial fraud and ensuring correct business behaviour.
+* Supported knowledge sharing within the team by helping others with automation, debugging, tools, and process-related queries.
 
-* Supported UAT and Production deployments, including release validation, smoke testing, rollback validation, and fixing owned Jenkins jobs to maintain around 90% smoke suite pass percentage.
-
-* Contributed to B2C store setup activities in automation and QA environments, strengthening product understanding and domain knowledge.
-
-* Improved automation stability by adding better wait logic and reducing flaky failures, resulting in smoother and more reliable execution.
+* Maintained a positive and accountable approach during critical releases, deployments, and post-release validations while ensuring timely delivery of assigned work.
