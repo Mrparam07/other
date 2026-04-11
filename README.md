@@ -1,11 +1,15 @@
 # Self Review
 
-* Assisted team members in UI and API automation by helping with scripting, debugging, and resolving automation-related issues.
+* Validated complex combinations of Rules and Wallet redemption scenarios and identified multiple defects before release, helping prevent production issues.
 
-* Actively used AI tools to improve coding efficiency and implemented better logic to reduce automation failures and ensure smoother execution.
+* Raised bugs with clear descriptions, steps to reproduce, screenshots, and recordings wherever required, which helped speed up issue resolution and improve communication with developers.
 
-* Worked closely with developers, product owners, and DevOps teams across QA, UAT, and Production environments to support smooth releases and faster issue resolution.
+* Maintained proper documentation for completed feature testing by adding comments, documenting test cases, and creating configuration documents for future reference and easier team understanding.
 
-* Supported knowledge sharing within the team by helping others with automation, debugging, tools, and process-related queries.
+* Created and reviewed pull requests with proper descriptions and shared Jenkins job details wherever required, helping ensure smoother reviews and better traceability.
 
-* Maintained a positive and accountable approach during critical releases, deployments, and post-release validations while ensuring timely delivery of assigned work.
+* Proactively supported recurring issue analysis, validation, and regression activities to improve release confidence and overall QA efficiency.
+
+* Consistently went beyond core responsibilities by contributing to documentation, process improvements, PR reviews, and cross-team support whenever needed.
+
+* Started learning JavaScript, TypeScript, and Playwright to strengthen automation skills and explore modern UI automation approaches.
