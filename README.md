@@ -1,15 +1,10 @@
-# Self Review
+* Participated in the AWS Hackathon as part of tech initiative activities, which helped improve problem-solving, collaboration, and exposure to new ideas and technologies.
+* Overall, this year was highly productive with strong ownership across automation, QA validation, release support, and regression activities, especially for B2C flows.
 
-* Validated complex combinations of Rules and Wallet redemption scenarios and identified multiple defects before release, helping prevent production issues.
+* I demonstrated accountability, adaptability, and a delivery-focused mindset while managing automation, complex business validations, UAT/PROD support, and critical release activities.
 
-* Raised bugs with clear descriptions, steps to reproduce, screenshots, and recordings wherever required, which helped speed up issue resolution and improve communication with developers.
+* I contributed significantly towards improving automation coverage by automating 350+ scenarios, reducing manual effort, improving execution stability, and supporting smoother releases.
 
-* Maintained proper documentation for completed feature testing by adding comments, documenting test cases, and creating configuration documents for future reference and easier team understanding.
+* I also invested in self-development by learning JavaScript, TypeScript, and Playwright, while actively using AI tools to improve coding efficiency and automation quality.
 
-* Created and reviewed pull requests with proper descriptions and shared Jenkins job details wherever required, helping ensure smoother reviews and better traceability.
-
-* Proactively supported recurring issue analysis, validation, and regression activities to improve release confidence and overall QA efficiency.
-
-* Consistently went beyond core responsibilities by contributing to documentation, process improvements, PR reviews, and cross-team support whenever needed.
-
-* Started learning JavaScript, TypeScript, and Playwright to strengthen automation skills and explore modern UI automation approaches.
+* Going forward, I aim to further strengthen my technical expertise, automation capabilities, and business understanding to contribute more effectively across projects and releases.
